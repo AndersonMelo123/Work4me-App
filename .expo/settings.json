@@ -1,0 +1,8 @@
+{
+  "urlRandomness": "va-3ws",
+  "hostType": "lan",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": false
+}
